@@ -1,7 +1,6 @@
 - 👋 Hi, I’m vijay
 - 👀 I’m interested in Learning new things.
-- 🌱 I’m currently learning Full stack Web Development with Web3.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Full stack Web Development with Web3 @ Almabetter.
 - 📫 How to reach me: vijay.rm861@gmail.com
 
 <!---
