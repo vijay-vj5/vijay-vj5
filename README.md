@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React,redux,express,javaScript,HTML,CSS,Node js ,MongoDB**
 
-<!-- - 👨‍💻 All of my projects are available at [https://portfolio-murali-m-v.netlify.app/](https://portfolio-murali-m-v.netlify.app/) -->
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/vijay-vj5]-->
 
 - 📫 How to reach me **vijay.rm861@gmail.com**
 
