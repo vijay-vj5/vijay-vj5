@@ -11,8 +11,7 @@
 <!-- - 📝 I regularly write articles on [https://medium.com/@muralimv0101](https://medium.com/@muralimv0101) -->
 
 - 💬 Ask me about **React,redux,express,javaScript,HTML,CSS,Node js ,MongoDB**
-
-<!-- - 👨‍💻 All of my projects are available at [https://github.com/vijay-vj5]-->
+ - 👨‍💻 All of my projects are available at [https://github.com/vijay-vj5]
 
 - 📫 How to reach me **vijay.rm861@gmail.com**
 
